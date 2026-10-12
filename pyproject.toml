@@ -1,0 +1,4 @@
+# Configuração do Black (formatador automático de código, Aula 3 de Ambientes)
+[tool.black]
+line-length = 120
+target-version = ["py311"]

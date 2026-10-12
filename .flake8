@@ -1,0 +1,6 @@
+# Configuração do Flake8 (inspetor de estilo PEP 8, Aula 3 de Ambientes)
+[flake8]
+max-line-length = 120
+# E203: conflito conhecido entre Flake8 e Black na formatação de fatias (ex.: lista[a : b])
+extend-ignore = E203
+exclude = .git, __pycache__, .ipynb_checkpoints, .venv
