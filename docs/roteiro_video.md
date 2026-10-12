@@ -3,6 +3,8 @@
 Público simulado: diretoria e líderes de Logística, Atendimento e CX. Linguagem executiva, sem termos técnicos.
 Tempo total estimado: **~4min40s** (cerca de 140 palavras por minuto). Os slides citados são os de `reports/apresentacao_nps_preditivo.pptx`.
 
+A narrativa segue o modelo **ABT** visto na Aula 4 de EDA (storytelling): **E** (*And*: o contexto, crescimento do e-commerce e NPS medido no fim da jornada), **Mas** (*But*: o conflito, NPS de −80 e detratores gerados por atraso e reclamações), **Portanto** (*Therefore*: a resolução, NPS previsto, faixas de risco e recomendações).
+
 ---
 
 ### 1. Abertura e problema (0:00 – 0:50) · slides 1-3
@@ -11,7 +13,7 @@ Tempo total estimado: **~4min40s** (cerca de 140 palavras por minuto). Os slides
 >
 > O problema é que só medimos a satisfação no fim da jornada, com a pesquisa de NPS. Quando a nota chega, o atraso já aconteceu, a reclamação já foi feita e o cliente já decidiu se volta ou não.
 >
-> Analisamos 2.500 pedidos e o retrato é preocupante: o NPS está em −80, e 84% dos clientes terminam a jornada como detratores.
+> Analisamos 2.500 pedidos e o retrato é preocupante: o NPS está em −80, com margem de erro de cerca de 2 pontos, e 84% dos clientes terminam a jornada como detratores.
 >
 > Por isso, buscamos responder duas perguntas: o que realmente move a satisfação, e como identificar o cliente em risco **antes** da pesquisa, enquanto ainda dá tempo de agir.
 
@@ -47,7 +49,7 @@ Tempo total estimado: **~4min40s** (cerca de 140 palavras por minuto). Os slides
 
 ### 5. Limitações e fechamento (4:25 – 4:40) · slides 16-17
 
-> São estimativas baseadas em associações, por isso propomos começar com um piloto e grupo de controle para medir o ganho real. Em resumo: a satisfação se perde na promessa quebrada e no segundo atrito, e com o NPS previsto conseguimos agir antes da pesquisa. Obrigado.
+> São estimativas baseadas em associações, por isso propomos começar com um piloto em formato de teste A/B, com grupo de controle, para medir o ganho real. Em resumo: a satisfação se perde na promessa quebrada e no segundo atrito, e com o NPS previsto conseguimos agir antes da pesquisa. Obrigado.
 
 ---
 
