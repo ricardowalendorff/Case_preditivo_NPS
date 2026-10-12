@@ -1,0 +1,16 @@
+# "Portão de qualidade" (Aula 3 de Ambientes): antes de cada git commit,
+# o Black formata o código e o Flake8 verifica o estilo. Se algo estiver
+# fora do padrão, o commit é barrado.
+#
+# Para ativar (uma vez, dentro do ambiente do projeto):
+#   pip install pre-commit
+#   pre-commit install
+repos:
+  - repo: https://github.com/psf/black
+    rev: 25.9.0
+    hooks:
+      - id: black
+  - repo: https://github.com/pycqa/flake8
+    rev: 7.1.1
+    hooks:
+      - id: flake8
