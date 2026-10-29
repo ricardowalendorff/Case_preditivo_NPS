@@ -10,7 +10,7 @@ Documento-resumo do modelo, no formato de *Model Card* (referência das apostila
 | Versão | 1.0 (Tech Challenge Fase 1) |
 | Arquivo | `models/modelo_nps.joblib` (gerado pelo notebook 04) |
 | Tipo | Regressão linear múltipla (mínimos quadrados) |
-| Autores | Ricardo Fritsch Walendorff e Chrystopher Alves |
+| Autores | Ricardo Fritsch Walendorff (RM378526) e Chrystopher Alves (RM377391) |
 
 ## Objetivo
 

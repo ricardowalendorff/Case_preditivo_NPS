@@ -1,6 +1,6 @@
 # Case Preditivo de NPS: Tech Challenge Fase 1
 
-**Pós Tech · IA para Cientistas de Dados (FIAP)** · Autores: Ricardo Fritsch Walendorff e Chrystopher Alves
+**Pós Tech · IA para Cientistas de Dados (FIAP)** · Autores: Ricardo Fritsch Walendorff (RM378526) e Chrystopher Alves (RM377391)
 
 > **Quais fatores operacionais realmente influenciam a satisfação do cliente e como a empresa pode agir de forma proativa para melhorar a experiência antes mesmo da aplicação da pesquisa de NPS?**
 
